@@ -1,4 +1,5 @@
 window.onload = function() {
+      
     var name = prompt("¿cuál es tu nombre?");
     document.getElementById("name").innerText = name;
 
@@ -37,3 +38,4 @@ window.onload = function() {
         document.getElementById("warningMessage").innerText = "Bueno Chao";
     }
 }
+*/
